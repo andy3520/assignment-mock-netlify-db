@@ -1,0 +1,182 @@
+{
+  "top-company": [
+    {
+      "id": 0,
+      "name": "PT. top company data",
+      "country": "Indonesia",
+      "brand": "gojek",
+      "city": "Jakarta",
+      "view": "100"
+    },
+    {
+      "id": 1,
+      "name": "PT. Pho Bros",
+      "brand": "gojenin",
+      "country": "Vietnam",
+      "city": "Ho Chi Minh City",
+      "view": "100"
+    },
+    {
+      "id": 2,
+      "name": "PT. Mabuhay",
+      "brand": "gozane",
+      "country": "The Philippines",
+      "city": "Manila",
+      "view": "1002"
+    },
+    {
+      "id": 3,
+      "name": "PT. Another Company Name",
+      "country": "Indonesia",
+      "brand": "testing",
+      "city": "Jakarta",
+      "view": "200"
+    },
+    {
+      "id": 4,
+      "name": "PT. Some More Pho",
+      "country": "Vietnam",
+      "brand": "goviet",
+      "city": "Ho Chi Minh City",
+      "view": "300"
+    },
+    {
+      "id": 5,
+      "name": "PT. Mabuhay Two",
+      "country": "The Philippines",
+      "brand": "takle",
+      "city": "Manila",
+      "view": "10"
+    },
+    {
+      "id": 6,
+      "name": "Bun Cha LLC",
+      "country": "Vietnam",
+      "brand": "tskca",
+      "city": "Ha Noi",
+      "view": "2100"
+    },
+    {
+      "id": 7,
+      "name": "Logigear",
+      "country": "Vietnam",
+      "brand": "inm",
+      "city": "Ho Chi Minh City",
+      "view": "10"
+    },
+    {
+      "id": 8,
+      "name": "PT. Hot Chilly",
+      "country": "The Philippines",
+      "city": "Manila",
+      "brand": "laskti",
+      "view": "300"
+    },
+    {
+      "id": 9,
+      "name": "PT. Man Clothes",
+      "country": "The Philippines",
+      "city": "Manila",
+      "brand": "lasito",
+      "view": "500"
+    },
+    {
+      "id": 10,
+      "name": "Alpha",
+      "country": "Indonesia",
+      "brand": "adida",
+      "city": "Jakarta",
+      "view": "50"
+    }
+  ],
+  "company": [
+    {
+      "id": 0,
+      "name": "PT. Comany Data",
+      "country": "Indonesia",
+      "brand": "gojek",
+      "city": "Jakarta",
+      "view": "100"
+    },
+    {
+      "id": 1,
+      "name": "PT. Pho Bros",
+      "brand": "gojenin",
+      "country": "Vietnam",
+      "city": "Ho Chi Minh City",
+      "view": "100"
+    },
+    {
+      "id": 2,
+      "name": "PT. Mabuhay",
+      "brand": "gozane",
+      "country": "The Philippines",
+      "city": "Manila",
+      "view": "1002"
+    },
+    {
+      "id": 3,
+      "name": "PT. Another Company Name",
+      "country": "Indonesia",
+      "brand": "testing",
+      "city": "Jakarta",
+      "view": "200"
+    },
+    {
+      "id": 4,
+      "name": "PT. Some More Pho",
+      "country": "Vietnam",
+      "brand": "goviet",
+      "city": "Ho Chi Minh City",
+      "view": "300"
+    },
+    {
+      "id": 5,
+      "name": "PT. Mabuhay Two",
+      "country": "The Philippines",
+      "brand": "takle",
+      "city": "Manila",
+      "view": "10"
+    },
+    {
+      "id": 6,
+      "name": "Bun Cha LLC",
+      "country": "Vietnam",
+      "brand": "tskca",
+      "city": "Ha Noi",
+      "view": "2100"
+    },
+    {
+      "id": 7,
+      "name": "Logigear",
+      "country": "Vietnam",
+      "brand": "inm ",
+      "city": "Ho Chi Minh City",
+      "view": "10"
+    },
+    {
+      "id": 8,
+      "name": "PT. Hot Chilly",
+      "country": "The Philippines",
+      "city": "Manila",
+      "brand": "laskti",
+      "view": "300"
+    },
+    {
+      "id": 9,
+      "name": "PT. Man Clothes",
+      "country": "The Philippines",
+      "city": "Manila",
+      "brand": "lasito",
+      "view": "500"
+    },
+    {
+      "id": 10,
+      "name": "Alpha",
+      "country": "Indonesia",
+      "brand": "adida",
+      "city": "Jakarta",
+      "view": "50"
+    }
+  ]
+}
