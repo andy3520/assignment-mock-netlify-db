@@ -8,16 +8,16 @@ const db = require('../db.json')
 const cors = require('cors')
 
 
+app.use(cors())
 const router = express.Router();
 router.get('/top-company', (req, res) => {
   res.json(db['top-company'])
 })
 
-router.get('/company', (req, res) => {
+router.get('/company',cors(), (req, res) => {
   res.json(db['company'])
 })
 
-app.use(cors())
 app.use(bodyParser.json());
 app.use('/.netlify/functions/server', router);  // path must route to lambda
 
