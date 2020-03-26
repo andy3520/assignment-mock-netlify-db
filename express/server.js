@@ -5,6 +5,9 @@ const serverless = require('serverless-http');
 const app = express();
 const bodyParser = require('body-parser');
 const db = require('../db.json')
+const cors = require('cors')
+
+app.use(cors())
 
 const router = express.Router();
 router.get('/', (req, res) => {
