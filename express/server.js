@@ -4,7 +4,7 @@ const path = require('path');
 const serverless = require('serverless-http');
 const app = express();
 const bodyParser = require('body-parser');
-const db = require('./db.json')
+const db = require(__dirname + '/db.json')
 
 const router = express.Router();
 router.get('/', (req, res) => {
